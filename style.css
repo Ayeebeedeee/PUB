@@ -1,0 +1,6 @@
+.backround-image{
+    background-image: url(./backround.jpg);
+    background-size: contain;
+    height: 200px;
+    width: 200px;
+  }
